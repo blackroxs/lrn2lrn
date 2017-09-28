@@ -16,7 +16,7 @@ http://www.counton.org/explorer/codebreaking/frequency-analysis.php
 Using an example from: http://practicalcryptography.com/ciphers/simple-substitution-cipher/ 
 
 We have prepared some easy practices!
-The is interesting to try out too: https://cryptopals.com/
+This is interesting to try out too: https://cryptopals.com/
 
 # Usage of tools
 Online tools are useful in breaking ciphers with English words. However, automation and scripting will definitely be more efficient in CTFs and competitions. 
